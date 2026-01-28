@@ -1,4 +1,3 @@
-(The file `c:\Users\adlaw\Downloads\Project Skill Test\Part2-v2\backend\README.md` exists, but is empty)
 # Manila FAME — Backend (Laravel)
 
 This document explains how to set up and run the Laravel backend for the Manila FAME registration SPA.
